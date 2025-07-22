@@ -1,0 +1,14 @@
+.horblock {
+    display: flex;
+    align-items: center;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.splash {
+
+}

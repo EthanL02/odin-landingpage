@@ -28,6 +28,15 @@ html{
     border: none
 }
 
+.signature {
+    justify-self: end;
+}
+
+.quote {
+    font-style: italic;
+    padding-inline: 25rem;
+}
+
 .thumbnails {
     padding-block: 5rem;
 }

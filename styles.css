@@ -1,6 +1,7 @@
 .horblock {
     display: flex;
     align-items: center;
+    gap: 1rem;
 }
 
 .hero {
@@ -9,6 +10,34 @@
     align-items: center;
 }
 
-.splash {
+html{
+    font-family: "Roboto", sans-serif;
+}
 
+.header {
+    background-color: #1F2937;
+    padding-inline: 5rem;
+    color: #F9FAF8;
+}
+
+.sign-up{
+    background-color: #3882F6;
+    padding-block: 0.5rem;
+    padding-inline: 1.5rem;
+    border-radius: .5rem;
+    border: none
+}
+
+.content {
+}
+
+.title {
+    justify-content: space-between;
+    padding-block: 5rem;
+}
+
+.splash {
+    background-color: #353f4d;
+    width: 25rem;
+    height: 15rem;
 }

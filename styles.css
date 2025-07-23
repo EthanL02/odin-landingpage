@@ -28,7 +28,24 @@ html{
     border: none
 }
 
+.thumbnails {
+    justify-content: space-between;
+}
+
+.thumbnail {
+    justify-content: center;
+    width: 10rem;
+}
+
+.thumbnail-placeholder {
+    border-color: #1F2937;
+    height: 10rem;
+    width: 10rem;
+}
+
 .content {
+    justify-items: center;
+    color: #1f2937
 }
 
 .title {

@@ -32,6 +32,10 @@ html{
     justify-self: end;
 }
 
+.footer {
+    padding-block: 5rem;
+}
+
 .quote {
     font-style: italic;
     padding-inline: 25rem;
